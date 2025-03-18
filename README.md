@@ -5,9 +5,9 @@
 💾 Keen on tech, AI, and startups<br/>
 🧠 Hoping to research applications of neuroscience in AI<br/>
 
-Connect with me on Linkedin here: https://www.linkedin.com/in/anthony-ng-o/
-Or shoot me a follow on Instagram here: https://www.instagram.com/_anto_ngo/
-I'm always open for a nice chat :D
+Connect with me on Linkedin here: https://www.linkedin.com/in/anthony-ng-o/<br/>
+Or shoot me a follow on Instagram here: https://www.instagram.com/_anto_ngo/<br/>
+I'm always open for a nice chat :D<br/>
 
 
 # 💻 Tech Stack:
